@@ -10,7 +10,19 @@ Data Science project on predicting wine quality and building a recommender syste
 
 ## Project Contents  
 1. Data Cleaning & EDA
+   (preview)
+<p align="center">
+  <img src="https://github.com/angie0bb/wine-quality-prediction/assets/76639910/ff581b1d-00ab-4c3a-9d47-e476e8ced850", width="800" height="400"/>
+</p>  
+<p align="center">
+  <img src="https://github.com/angie0bb/wine-quality-prediction/assets/76639910/76f6f3fa-adb9-47b8-b504-32bf814051b8", width="300" height="300"/>
+</p>  
 
-2. Preliminary Research
-3. Statistical & Machine Learning Modelling
-4. Wine Recommendation Using Title & Variety of Wines
+2. Preliminary Research  
+
+3. Statistical & Machine Learning Modelling  
+
+4. Wine Recommendation Using Title & Variety of Wines with Flask   
+<p align="center">
+  <img src="https://github.com/angie0bb/wine-quality-prediction/assets/76639910/aef7a4f0-fc60-4630-ad0e-66e7d72e3920">
+</p>  
