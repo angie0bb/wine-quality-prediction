@@ -1,5 +1,5 @@
 # Predicting Wine Quality & Wine Recommendation System
-
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=white"/> 
 Data Science project on predicting wine quality and building a recommender system using two datasets - Wine Quality dataset and Wine Reviews dataset.
 
 ## Data Source
