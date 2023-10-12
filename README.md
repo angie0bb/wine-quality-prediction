@@ -27,11 +27,16 @@ The project will utilize a combination of more “traditional” statistical app
 5)	Visualizations with Flask
 
 ## Outcomes - images
-![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/90979ebb-561c-41db-882e-12cb7e6b60ab)
-![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/4898a7a8-260f-401c-9dcf-0f1928e0d60a)
-![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/bf26c877-63dd-484c-81a0-82e793a45eb4)
-![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/e79daae9-0229-4a00-8b4f-686713f6d829)
-![Wine Recommender - Chrome 2023-04-21 06-00-37 (1) (1)](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/20e25e09-d045-442d-972b-9a020e6f5d7c)
+![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/90979ebb-561c-41db-882e-12cb7e6b60ab)  
+
+![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/4898a7a8-260f-401c-9dcf-0f1928e0d60a)  
+
+![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/bf26c877-63dd-484c-81a0-82e793a45eb4)  
+
+![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/e79daae9-0229-4a00-8b4f-686713f6d829)  
+
+![Wine Recommender - Chrome 2023-04-21 06-00-37 (1) (1)](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/20e25e09-d045-442d-972b-9a020e6f5d7c)  
+
 
    
   
