@@ -16,24 +16,22 @@ Data Science project on predicting wine quality and building a recommender syste
 2. Wine Reviews  
    Source: https://www.kaggle.com/datasets/zynicide/wine-reviews The data was scraped from http://www.winemag.com/?s=&drink_type=wine during 2017.
 
-## Project Contents  
-1. Data Cleaning & EDA
-   (preview)
-<p align="center">
-  <img src="https://github.com/angie0bb/wine-quality-prediction/assets/76639910/ff581b1d-00ab-4c3a-9d47-e476e8ced850", width="800" height="360"/>
-</p>  
-<p align="center">
-  <img src="https://github.com/angie0bb/wine-quality-prediction/assets/76639910/76f6f3fa-adb9-47b8-b504-32bf814051b8", width="300" height="300"/>
-</p>  
+## Approach
+The project will utilize a combination of more “traditional” statistical approaches and machine learning techniques to explore and understand the relationships between various factors and wine quality/rating. Evaluating model performances using both statistical and machine learning approaches will allow us to choose the more appropriate model.   
 
-2. Preliminary Research  
-- Simple Ordinary Least Squares, checking assumptions  
+## Workflow  
+1)	Data Preparation and Exploratory Data Analysis (Python & Tableau)      
+2)	Statistical Analysis and Machine Learning Models   
+3)	Interpretation and Evaluation of Results  
+4)	Recommender System for Wine  
+5)	Visualizations with Flask
 
-3. Statistical & Machine Learning Modelling  
-<p align="center">
-  <img src="https://github.com/angie0bb/wine-quality-prediction/assets/76639910/66a40080-762c-4c1a-87b7-e713c3f6b675", width="800" height="360"/>
-</p>  
-4. Wine Recommendation Using Title & Variety of Wines with Flask   
-<p align="center">
-  <img src="https://github.com/angie0bb/wine-quality-prediction/assets/76639910/aef7a4f0-fc60-4630-ad0e-66e7d72e3920">
-</p>  
+## Outcomes - images
+![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/90979ebb-561c-41db-882e-12cb7e6b60ab)
+![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/4898a7a8-260f-401c-9dcf-0f1928e0d60a)
+![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/bf26c877-63dd-484c-81a0-82e793a45eb4)
+![image](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/e79daae9-0229-4a00-8b4f-686713f6d829)
+![Wine Recommender - Chrome 2023-04-21 06-00-37 (1) (1)](https://github.com/angie0bb/wine-quality-prediction/assets/76639910/20e25e09-d045-442d-972b-9a020e6f5d7c)
+
+   
+  
